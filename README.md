@@ -1,5 +1,4 @@
-### Hi there 👋
-
+java, python, html, css dev
 <!--
 **KARTOUKA/KARTOUKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
